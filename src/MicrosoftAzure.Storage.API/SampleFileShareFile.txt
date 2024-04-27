@@ -1,0 +1,24 @@
+I
+
+run->
+temp
+%temp%
+recent
+prefetch
+
+II
+
+delete browser histry
+ctrl+shift del
+
+III
+control panel
+Control Panel\System and Security
+Adminstrative Tool
+Freeup disk space
+select the drive
+ok
+IV
+Excle
+* merge- more line convert to one line
+* alt enter- 
